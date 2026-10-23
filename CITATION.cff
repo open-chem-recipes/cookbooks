@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the upstream models and datasets used by your recipe."
+title: "Open Chem Recipes: Cookbooks"
+type: software
+authors:
+  - family-names: Eli
+    given-names: Arunkumar
+    alias: arun-elr
+repository-code: "https://github.com/open-chem-recipes/cookbooks"
+url: "https://github.com/open-chem-recipes/cookbooks"
+license: MIT
+keywords:
+  - chemistry
+  - model fine-tuning
+  - reproducible research
+  - biomolecular machine learning

@@ -1,0 +1,14 @@
+{
+  "recorded_on": "2026-10-23",
+  "files": {
+    "notebooks/01_chemfm_solubility.ipynb": "bf82d154dca57aedf41d5558aafc2937929a4c081f358f898cff60ae086a8703",
+    "notebooks/02_uma_energy_forces.ipynb": "3971d01436832a46c905f78f4caf4e9f9e46bfe20db8a8f6867b275aa472e12a",
+    "notebooks/03_bioemu2_mdcath.ipynb": "8a4d1ab12df50a3d951c73e1aa128b15fc88ba4334337af591cd00e2a6ffa814",
+    "results/01-result.json": "0897160a1e2d830e120d2a4c9ed442a5c1f06f949dd83da9d98229790c6442f7",
+    "results/02-result.json": "239455fa1bf80fc0c7683739ed793b4d54dfd23f58844f2bf89c3d1cfbff9339",
+    "results/03-result.json": "8ed67b9a99523f3e2869bf41bfa7982aa225980f552a32085d63ebef51c48e9c",
+    "results/01-result.png": "70012a7066b408d2754448c2c7cf147d1bd1e79839efcb71f4d666242757a7d1",
+    "results/02-result.png": "f40b0d6323da95e1ab46b344030363186488b37502666718c35e353c2f8788cf",
+    "results/03-result.png": "4f6a00f0612c7b216ae4b2e0e586bb690db64c96dcf291538e8d1135af4de577"
+  }
+}

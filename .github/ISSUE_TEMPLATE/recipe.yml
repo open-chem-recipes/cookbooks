@@ -1,0 +1,21 @@
+name: Recipe proposal
+description: Propose a reproducible recipe or baseline
+title: '[Recipe] '
+body:
+  - type: textarea
+    attributes:
+      label: Task and audience
+      description: What would someone learn or reproduce?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Public data, model and license links
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Compute, baseline and evaluation
+      description: Smallest useful run, hardware, split strategy and success metrics.
+    validations:
+      required: true
